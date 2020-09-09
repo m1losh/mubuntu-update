@@ -1,5 +1,5 @@
 # mubuntu-update
-## mubuntu os project
+## nme's mubuntu os
 
 ### miners/
     miners.7z     - miner binaries
