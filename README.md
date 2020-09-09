@@ -2,7 +2,6 @@
 
 ### miners/
     miners.7z     - miner binaries
-  
     version.txt   - ver tracking
   
 ### mubuntu/
