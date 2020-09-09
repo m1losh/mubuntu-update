@@ -12,4 +12,3 @@
 ### whitelist/
     whitelist.7z  - mac whitelist
 
-nme
