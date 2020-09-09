@@ -6,9 +6,7 @@
   
 ### mubuntu/
     mubuntu.7z    - all scripts
-  
     version.txt   - ver tracking
   
 ### whitelist/
     whitelist.7z  - mac whitelist
-  
