@@ -1,5 +1,5 @@
 # mubuntu-update
-## nme's mining os [mubuntu]
+## nme's mining os // mubuntu //
 
 ### miners/
     miners.7z     - miner binaries
