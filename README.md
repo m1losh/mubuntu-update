@@ -5,8 +5,8 @@
     miners.7z     - miner binaries
     version.txt   - ver tracking
   
-### mubuntu/
-    mubuntu.7z    - all scripts
+### scripts/
+    scripts.7z    - all scripts
     version.txt   - ver tracking
   
 ### whitelist/
