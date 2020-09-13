@@ -7,7 +7,7 @@ HARDWARE_ID     UPDATE         GIT CONFIG     RIG DESCRIPTION
                 [2] scripts    
                 [3] all        
 -------------------------------------------------------------
-‎e0d55e00602c     0              0             na
+e0d55e00602c     0              0             na
 7085c24969e3     0              0             na
 1c1b0d5e41e7     0              0             na
-901b0e1fd960     0              1             Development rig
+901b0e1fd960     0              0             Development rig
