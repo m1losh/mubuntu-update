@@ -10,4 +10,4 @@ HARDWARE_ID             UPDATE          GET ONLINE CONFIG
 ‎e0d55e00602c			0				0
 7085c24969e3			0				0
 1c1b0d5e41e7			0				0
-901b0e1fd960			3				1
+901b0e1fd960			0				1
