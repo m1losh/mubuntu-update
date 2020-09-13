@@ -1,0 +1,13 @@
+GLOBAL UPDATE CONFIG // PER MACHINE
+----------------------------------------------------------------
+HARDWARE_ID				UPDATE			GET ONLINE CONFIG
+----------------------------------------------------------------
+[mac_address]			[0] disabled	[0] keep local
+						[1] miners		[1] update from git
+						[2] scripts		
+						[3] all			
+----------------------------------------------------------------
+‎e0d55e00602c			0				0
+7085c24969e3			0				0
+1c1b0d5e41e7			0				0
+901b0e1fd960			0				0
