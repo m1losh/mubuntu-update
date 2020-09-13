@@ -1,14 +1,15 @@
 # mubuntu-update
 ## nme's mining os // mubuntu
 
-### miners/
-    miners.7z     - miner binaries
-    version.txt   - ver tracking
+### config/
+      config.txt          - global config w/ whitelist
+      hwid/
+        xxxxxxxxxxxx.ini  - hw specific configs
+
+### update/
+      miners.7z           - miners archive
+      scripts.7z          - scripts archive
+      version-miners.txt  - version tracking for miners
+      version-scripts.txt - version tracking for scripts
   
-### scripts/
-    scripts.7z    - all scripts
-    version.txt   - ver tracking
-  
-### whitelist/
-    whitelist.7z  - mac whitelist
 
