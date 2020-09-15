@@ -2,14 +2,14 @@
 ## nme's mining os // mubuntu
 
 ### config/
-      config.txt          - global config w/ whitelist
+      config              - global config/whitelist text file
       hwid/
-        xxxxxxxxxxxx.ini  - hw specific configs
+        xxxxxxxxxxxx      - hwid matching archive containing config.ini
 
 ### update/
-      miners.7z           - miners archive
-      scripts.7z          - scripts archive
-      version-miners.txt  - version tracking for miners
-      version-scripts.txt - version tracking for scripts
+      miners              - miners archive
+      scripts             - scripts archive
+      version-miners      - text file version tracking for miners
+      version-scripts     - text file version tracking for scripts
   
 
