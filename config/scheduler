@@ -1,0 +1,3 @@
+HOURLY REPAIR COMMAND | MAC_ADDRESS	[tab] COMMAND_LINE
+------------------------------------------------------
+901b0e1fd960	echo "test $(date)" >> /home/miner/sched_repair.txt
