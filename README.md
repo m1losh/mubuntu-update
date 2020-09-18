@@ -2,14 +2,13 @@
 ## nme's mining os // mubuntu
 
 ### config/
-      config              - /txt/ global config, whitelist
+      config              - /ini/ global config
       hwid/
-        xxxxxxxxxxxx      - /arc/ hwid matching filename, archive containing config.ini
+        xxxxxxxxxxxx      - /ini/ hwid matching filename, used if hwid not in global
 
 ### update/
       miners              - /arc/ miners 
       scripts             - /arc/ scripts 
-      version-miners      - /txt/ miners version tracking
-      version-scripts     - /txt/ scripts version tracking
+
   
 
