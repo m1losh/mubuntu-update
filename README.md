@@ -7,7 +7,6 @@
         xxxxxxxxxxxx      - /ini/ hwid matching filename, used if hwid not in global
 
 ### update/
-      miners              - /arc/ miners 
       scripts             - /arc/ scripts 
 
   
