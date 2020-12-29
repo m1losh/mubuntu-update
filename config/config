@@ -4,8 +4,7 @@ version_os=20.04
 
 [update]
 version_scripts=1
-version_miners=1
-update_script=
+update_script_sh=
 
 
 [901b0e1fd960]
