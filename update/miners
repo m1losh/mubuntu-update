@@ -1,7 +1,9 @@
 # miners
 nanominer="https://github.com/nanopool/nanominer/releases/download/v3.1.4/nanominer-linux-3.1.4.tar.gz"
+nanominer_setup="mv nanominer/helper_scripts/cmdline_launcher.sh nanominer/"
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.7.22/teamredminer-v0.7.22-linux.tgz"
 lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.17/lolMiner_v1.17_Lin64.tar.gz"
+lolminer_setup="ln -f lolminer/reboot.sh lolminer/emergency.sh"
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.3-00c45fa-amd64.tar.xz"
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v36.0/NBMiner_36.0_Linux.tgz"
