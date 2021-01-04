@@ -29,7 +29,7 @@ gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.39/gm
 trex="https://github.com/trexminer/T-Rex/releases/download/0.19.5/t-rex-0.19.5-linux-cuda10.0.tar.gz"
 
 # PHOENIXMINER
-phoenixminer="https://github.com/m1losh/phoenix/releases/download/5.4c/PhoenixMiner_5.4c_Linux.tar.gz"
+phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/PhoenixMiner_5.4c_Linux.tar.gz"
 
 # CLAYMORE
-claymore="https://github.com/m1losh/claymore/releases/download/v15.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
+claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
