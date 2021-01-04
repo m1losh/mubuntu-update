@@ -1,6 +1,6 @@
 # miners
 nanominer="https://github.com/nanopool/nanominer/releases/download/v3.1.4/nanominer-linux-3.1.4.tar.gz"
-nanominer_setup="mv nanominer/helper_scripts/cmdline_launcher.sh nanominer/"
+nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.7.22/teamredminer-v0.7.22-linux.tgz"
 lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.17/lolMiner_v1.17_Lin64.tar.gz"
 lolminer_setup="ln -f lolminer/reboot.sh lolminer/emergency.sh"
