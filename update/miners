@@ -10,7 +10,7 @@ nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.7.22/teamredminer-v0.7.22-linux.tgz"
 
 # LOLMINER
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.17/lolMiner_v1.17_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.18/lolMiner_v1.18a_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # BMINER
