@@ -1,6 +1,7 @@
 # MUBUNTU MINERS UPDATE LIST
 # [miner="url_to_miner.gz"]             # latest miner for linux download
 # [miner_setup="echo some_sh_command"]  # executes in miner's dir after unpacking
+# Last update: 2021/01/13
 
 # NANOMINER
 nanominer="https://github.com/nanopool/nanominer/releases/download/v3.1.5/nanominer-linux-3.1.5.tar.gz"
