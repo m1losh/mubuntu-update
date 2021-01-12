@@ -3,7 +3,7 @@
 # [miner_setup="echo some_sh_command"]  # executes in miner's dir after unpacking
 
 # NANOMINER
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.1.4/nanominer-linux-3.1.4.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.1.5/nanominer-linux-3.1.5.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER
