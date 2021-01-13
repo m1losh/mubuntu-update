@@ -44,7 +44,7 @@ claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymo
 # ======================================================================== #
 
 # AUTOUPDATE (MUBUNTU)
-update_enable="0"
+update_enable="1"
 update_pre_sh=""
 update_post_sh=""
 update_os_min="20.04"
