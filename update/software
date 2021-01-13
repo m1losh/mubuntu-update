@@ -1,18 +1,5 @@
 # Last update: 2021/01/13
 
-###############################
-### MUBUNTU SOFTWARE UPDATE ###
-###############################
-
-# GLOBAL SETTINGS
-update_enable="1"
-update_pre_sh=""
-update_post_sh=""
-software_os="20.04"
-software_url=""
-software_version="1.0"
-
-
 ##########################
 ### MINERS UPDATE LIST ###
 ##########################
@@ -50,3 +37,16 @@ phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Ph
 
 # CLAYMORE
 claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
+
+
+###################
+# SOFTWARE UPDATE #
+###################
+
+# AUTOUPDATE MUBUNTU
+update_enable="1"
+update_pre_sh=""
+update_post_sh=""
+software_os_min="20.04"
+software_version="1.0"
+software_url=""
