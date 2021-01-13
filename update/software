@@ -7,5 +7,6 @@ update_pre_sh=""
 update_post_sh=""
 
 # SOFTWARE UPDATE
+software_os="20.04"
 software_url=""
 software_version="1.0"
