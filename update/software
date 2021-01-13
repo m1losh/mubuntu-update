@@ -1,9 +1,11 @@
 # MUBUNTU SOFTWARE UPDATE FILE
 # Last update: 2021/01/13
 
-# GLOBAL SETTINGS / OVERRIDES
-version_os="20.04"
-version_software="1.0"
+# GLOBAL SETTINGS
 update_enable="1"
 update_pre_sh=""
 update_post_sh=""
+
+# SOFTWARE UPDATE
+software_url=""
+software_version="1.0"
