@@ -1,4 +1,4 @@
-# LAST UPDATE: 2021/02/06
+# LAST UPDATE: 2021/02/11
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -14,7 +14,7 @@ nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.8.1/teamredminer-v0.8.1-linux.tgz"
 
 # LOLMINER           - https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.22/lolMiner_v1.22_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.23/lolMiner_v1.23_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # BMINER             - https://www.bminer.me/releases/
