@@ -1,4 +1,4 @@
-# LAST UPDATE: 2021/02/13
+# LAST UPDATE: 2021/02/25
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -14,7 +14,7 @@ nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.8.1/teamredminer-v0.8.1-linux.tgz"
 
 # LOLMINER           - https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.22/lolMiner_v1.22_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.24/lolMiner_v1.24a_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # BMINER             - https://www.bminer.me/releases/
@@ -27,7 +27,7 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v36.1/NBMiner_36.1_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.44/gminer_2_44_linux64.zip"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.45/gminer_2_45_linux64.tar.xz"
 
 # T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.19.11/t-rex-0.19.11-linux-cuda10.0.tar.gz"
