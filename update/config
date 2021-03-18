@@ -1,4 +1,4 @@
-# LAST UPDATE: 2021/03/10
+# LAST UPDATE: 2021/03/18
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -7,7 +7,7 @@
 # ======================================================================== #
 
 # NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.1/nanominer-linux-3.3.1.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.2/nanominer-linux-3.3.2.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
@@ -27,15 +27,15 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v36.1/NBMiner_36.1_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.46/gminer_2_46_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.47/gminer_2_47_linux64.tar.xz"
 
 # T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.19.11/t-rex-0.19.11-linux-cuda10.0.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.19.12/t-rex-0.19.12-linux-cuda10.0.tar.gz"
 
 # PHOENIXMINER       - https://mega.nz/#F!2VskDJrI!lsQsz1CdDe8x5cH3L8QaBw // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/PhoenixMiner_5.5c_Linux.tar.gz"
 
-# CLAYMORE [legacy]  - https://mega.nz/folder/O4YA2JgD#n2b4iSHQDruEsYUvTQP5_w // https://bitcointalk.org/index.php?topic=1433925.0
+# CLAYMORE [legacy]  - https://bitcointalk.org/index.php?topic=1433925.0
 claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
 
 
