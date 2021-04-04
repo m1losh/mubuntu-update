@@ -7,7 +7,7 @@
 # ======================================================================== #
 
 # NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.2/nanominer-linux-3.3.2.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.3/nanominer-linux-3.3.3.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
@@ -18,19 +18,19 @@ lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.22
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # BMINER             - https://www.bminer.me/releases/
-bminer="https://www.bminercontent.com/releases/bminer-v16.4.5-53c7f21-amd64.tar.xz"
+bminer="https://www.bminercontent.com/releases/bminer-v16.4.6-d77cc9b-amd64.tar.xz"
 
 # Z-ENEMY [nv]       - https://github.com/zealot-rvn/z-enemy/releases
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 
 # NBMINER            - https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v36.1/NBMiner_36.1_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.1/NBMiner_37.1_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.47/gminer_2_47_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.49/gminer_2_49_linux64.tar.xz"
 
 # T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.19.12/t-rex-0.19.12-linux-cuda10.0.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-linux-cuda10.0.tar.gz"
 
 # PHOENIXMINER       - https://mega.nz/#F!2VskDJrI!lsQsz1CdDe8x5cH3L8QaBw // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/PhoenixMiner_5.5c_Linux.tar.gz"
