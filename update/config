@@ -7,7 +7,7 @@
 # ======================================================================== #
 
 # NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.3/nanominer-linux-3.3.3.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.4/nanominer-linux-3.3.4.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
@@ -27,10 +27,10 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.1/NBMiner_37.1_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.50/gminer_2_50_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.51/gminer_2_51_linux64.tar.xz"
 
 # T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-linux-cuda10.0.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.20.0/t-rex-0.20.0-linux.tar.gz"
 
 # PHOENIXMINER       - https://mega.nz/#F!2VskDJrI!lsQsz1CdDe8x5cH3L8QaBw // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/PhoenixMiner_5.5c_Linux.tar.gz"
