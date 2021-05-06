@@ -1,4 +1,4 @@
-# LAST UPDATE: 2021/04/22
+# LAST UPDATE: 2021/05/06
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -7,14 +7,14 @@
 # ======================================================================== #
 
 # NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.4/nanominer-linux-3.3.4.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/3.3.5/nanominer-linux-3.3.5.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
 teamredminer="https://github.com/todxx/teamredminer/releases/download/0.8.2.1/teamredminer-v0.8.2.1-linux.tgz"
 
 # LOLMINER           - https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.26/lolMiner_v1.26_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.28/lolMiner_v1.28_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # BMINER             - https://www.bminer.me/releases/
@@ -24,16 +24,16 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.6-d77cc9b-amd64.tar.
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 
 # NBMINER            - https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.1/NBMiner_37.1_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.3/NBMiner_37.3_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.53/gminer_2_53_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.54/gminer_2_54_linux64.tar.xz"
 
 # T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.20.1/t-rex-0.20.1-linux.tar.gz"
 
-# PHOENIXMINER       - https://mega.nz/#F!2VskDJrI!lsQsz1CdDe8x5cH3L8QaBw // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/PhoenixMiner_5.5c_Linux.tar.gz"
+# PHOENIXMINER       - https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases // https://bitcointalk.org/index.php?topic=2647654.0
+phoenixminer="https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases/download/5.5c/PhoenixMiner_5.5c_Linux.tar.gz"
 
 # CLAYMORE [legacy]  - https://bitcointalk.org/index.php?topic=1433925.0
 claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
