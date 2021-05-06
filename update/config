@@ -29,8 +29,8 @@ nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.3/NBMiner_37.
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
 gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.54/gminer_2_54_linux64.tar.xz"
 
-# T-REX [nv]         - https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.20.1/t-rex-0.20.1-linux.tar.gz"
+# T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
+trex="https://trex-miner.com/download/t-rex-0.20.3-linux.tar.gz"
 
 # PHOENIXMINER       - https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases/download/5.5c/PhoenixMiner_5.5c_Linux.tar.gz"
