@@ -1,5 +1,4 @@
 # mubuntu-update
-## nme's mining os // mubuntu
 
 ### hwid/
       global.config       - /ini/ hwid defined overrides
