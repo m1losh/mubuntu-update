@@ -32,11 +32,11 @@ gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.54/gm
 # T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://trex-miner.com/download/t-rex-0.20.3-linux.tar.gz"
 
-# PHOENIXMINER       - https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://github.com/PhoenixMinerDevTeam/PhoenixMiner/releases/download/5.5c/PhoenixMiner_5.5c_Linux.tar.gz"
+# PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
+phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz"
 
 # CLAYMORE [legacy]  - https://bitcointalk.org/index.php?topic=1433925.0
-claymore="https://github.com/m1losh/mubuntu-update/releases/download/v1.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.tar.gz"
+claymore=""
 
 
 # ======================================================================== #
