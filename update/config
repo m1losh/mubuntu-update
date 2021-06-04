@@ -24,13 +24,13 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.6-d77cc9b-amd64.tar.
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 
 # NBMINER            - https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.3/NBMiner_37.3_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.6/NBMiner_37.6_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.54/gminer_2_54_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.55/gminer_2_55_linux64.tar.xz"
 
 # T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://trex-miner.com/download/t-rex-0.20.3-linux.tar.gz"
+trex="https://trex-miner.com/download/t-rex-0.20.4-linux.tar.gz"
 
 # PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz"
