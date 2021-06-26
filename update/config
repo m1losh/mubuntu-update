@@ -27,7 +27,7 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v37.6/NBMiner_37.6_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.57/gminer_2_57_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.58/gminer_2_58_linux64.tar.xz"
 
 # T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://trex-miner.com/download/t-rex-0.20.4-linux.tar.gz"
