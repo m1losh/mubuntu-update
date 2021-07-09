@@ -7,7 +7,7 @@
 # ======================================================================== #
 
 # NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.6/nanominer-linux-3.3.6.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.7/nanominer-linux-3.3.7.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
