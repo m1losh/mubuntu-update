@@ -1,4 +1,6 @@
-# LAST UPDATE: 2021/07/24
+#!/bin/sh
+
+# LAST UPDATE: 2021/07/30
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -34,6 +36,10 @@ trex="https://github.com/trexminer/T-Rex/releases/download/0.21.4/t-rex-0.21.4-l
 
 # PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz"
+
+# ARRAYS CONTAINING MINER LIST, GIT REPOS
+supported_miners=(lolminer teamredminer nanominer bminer gminer nbminer phoenixminer t-rex z-enemy all git)
+supported_git=(nanopool/nanominer todxx/teamredminer Lolliedieb/lolMiner-releases zealot-rvn/z-enemy NebuTech/NBMiner develsoftware/GMinerRelease trexminer/T-Rex m1losh/mubuntu-update)
 
 
 # ======================================================================== #
