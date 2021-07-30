@@ -38,8 +38,8 @@ trex="https://github.com/trexminer/T-Rex/releases/download/0.21.4/t-rex-0.21.4-l
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz"
 
 # ARRAYS CONTAINING MINER LIST, GIT REPOS
-supported_miners=(lolminer teamredminer nanominer bminer gminer nbminer phoenixminer t-rex z-enemy all git)
-supported_git=(nanopool/nanominer todxx/teamredminer Lolliedieb/lolMiner-releases zealot-rvn/z-enemy NebuTech/NBMiner develsoftware/GMinerRelease trexminer/T-Rex m1losh/mubuntu-update)
+supported_miners=("lolminer" "teamredminer" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
+supported_git=("nanopool/nanominer" "todxx/teamredminer" "Lolliedieb/lolMiner-releases" "zealot-rvn/z-enemy" "NebuTech/NBMiner" "develsoftware/GMinerRelease" "trexminer/T-Rex" "m1losh/mubuntu-update")
 
 
 # ======================================================================== #
