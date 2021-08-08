@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# LAST UPDATE: 2021/08/05
+# LAST UPDATE: 2021/08/08
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -13,7 +13,7 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.7/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.3/teamredminer-v0.8.3-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.4/teamredminer-v0.8.4-linux.tgz"
 
 # LOLMINER           - https://github.com/Lolliedieb/lolMiner-releases/releases
 lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.31_Lin64.tar.gz"
@@ -32,10 +32,10 @@ nbminer="https://github.com/NebuTech/NBMiner/releases/download/v38.1/NBMiner_38.
 gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.64/gminer_2_64_linux64.tar.xz"
 
 # T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.21.4/t-rex-0.21.4-linux.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.21.5/t-rex-0.21.5-linux.tar.gz"
 
 # PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz"
+phoenixminer="https://phoenixminer.info:8889/downloads/beta/PhoenixMiner_5.7b_Linux.tar.gz"
 
 # ARRAYS CONTAINING MINER LIST, GIT REPOS
 supported_miners=("lolminer" "teamredminer" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
