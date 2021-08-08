@@ -59,3 +59,4 @@ update_post_sh="touch post.temp"
 update_os_min="20.04"
 update_version="1.0"
 update_url_archive="https://github.com/m1losh/mubuntu-update/raw/master/update/mubuntu.xz"
+
