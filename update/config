@@ -47,13 +47,15 @@ supported_git=("nanopool/nanominer" "todxx/teamredminer" "Lolliedieb/lolMiner-re
 # ======================================================================== #
 
 # REMOTE
-remote_update_enable=1
-remote_update_tmate_url="https://github.com/tmate-io/tmate/releases/download/2.4.0/tmate-2.4.0-static-linux-amd64.tar.xz"
+remote_update=1
+remote_url_tmate="https://github.com/tmate-io/tmate/releases/download/2.4.0/tmate-2.4.0-static-linux-amd64.tar.xz"
+remote_url_teamviewer_tar="https://download.teamviewer.com/download/linux/teamviewer_amd64.tar.xz"
+remote_url_teamviewer_deb="https://download.teamviewer.com/download/linux/teamviewer_amd64.deb"
 
 # AUTOUPDATE
-update_enable="1"
+update="1"
 update_pre_sh="touch pre.temp"
 update_post_sh="touch post.temp"
 update_os_min="20.04"
 update_version="1.0"
-update_data_url="https://github.com/m1losh/mubuntu-update/raw/master/update/mubuntu.xz"
+update_url_archive="https://github.com/m1losh/mubuntu-update/raw/master/update/mubuntu.xz"
