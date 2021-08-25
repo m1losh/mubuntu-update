@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# LAST UPDATE: 2021/08/21
+# LAST UPDATE: 2021/08/25
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -29,7 +29,7 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.1/NBMiner_39.1_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.65/gminer_2_65_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.66/gminer_2_66_linux64.tar.xz"
 
 # T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.21.5/t-rex-0.21.5-linux.tar.gz"
