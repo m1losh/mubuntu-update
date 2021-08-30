@@ -35,7 +35,7 @@ gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.66/gm
 trex="https://github.com/trexminer/T-Rex/releases/download/0.21.5/t-rex-0.21.5-linux.tar.gz"
 
 # PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://phoenixminer.info:8889/downloads/beta/PhoenixMiner_5.7b_Linux.tar.gz"
+phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.7b_Linux.tar.gz"
 
 # ARRAYS CONTAINING MINER LIST, GIT REPOS
 supported_miners=("lolminer" "teamredminer" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
