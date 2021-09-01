@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# LAST UPDATE: 2021/08/25
+# LAST UPDATE: 2021-09-01
 
 # ======================================================================== #
 #                          MINERS UPDATE LIST                              #
@@ -26,7 +26,7 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.6-d77cc9b-amd64.tar.
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 
 # NBMINER            - https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.1/NBMiner_39.1_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.2/NBMiner_39.2_Linux.tgz"
 
 # GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
 gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.66/gminer_2_66_linux64.tar.xz"
