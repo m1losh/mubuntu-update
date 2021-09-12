@@ -1,62 +1,45 @@
 #!/bin/sh
+ 
+ 
+# ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
+# ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
+# ██╔████╔██║██║██╔██╗ ██║█████╗  ██████╔╝███████╗    ██║   ██║██████╔╝██║  ██║███████║   ██║   █████╗  
+# ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██╔══██╗╚════██║    ██║   ██║██╔═══╝ ██║  ██║██╔══██║   ██║   ██╔══╝  
+# ██║ ╚═╝ ██║██║██║ ╚████║███████╗██║  ██║███████║    ╚██████╔╝██║     ██████╔╝██║  ██║   ██║   ███████╗  Updated
+# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-09-12
 
-# LAST UPDATE: 2021-09-05
 
-# ======================================================================== #
-#                          MINERS UPDATE LIST                              #
-# ------------------------------------------------------------------------ #
-# How-To: minername="miner_url.gz"; minername_setup="echo some_sh_command" #
-# ======================================================================== #
-
-# NANOMINER          - https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.8/nanominer-linux-3.3.8.tar.gz"
+# NANOMINER | https://github.com/nanopool/nanominer/releases
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.3.9/nanominer-linux-3.3.9.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
-# TEAMREDMINER [amd] - https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.5/teamredminer-v0.8.5-linux.tgz"
-
-# LOLMINER           - https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.31_Lin64.tar.gz"
+# LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.32/lolMiner_v1.32_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
-# BMINER             - https://www.bminer.me/releases/
-bminer="https://www.bminercontent.com/releases/bminer-v16.4.6-d77cc9b-amd64.tar.xz"
+# TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.5/teamredminer-v0.8.5-linux.tgz"
 
-# Z-ENEMY [nv]       - https://github.com/zealot-rvn/z-enemy/releases
-zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
-
-# NBMINER            - https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.2/NBMiner_39.2_Linux.tgz"
-
-# GMINER             - https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.66/gminer_2_66_linux64.tar.xz"
-
-# T-REX [nv]         - https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.21.6/t-rex-0.21.6-linux.tar.gz"
-
-# PHOENIXMINER       - https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
+# PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.7b_Linux.tar.gz"
 
-# ARRAYS CONTAINING MINER LIST, GIT REPOS
+# GMINER | https://github.com/develsoftware/GMinerRelease/releases/
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.67/gminer_2_67_linux64.tar.xz"
+
+# BMINER | https://www.bminer.me/releases/
+bminer="https://www.bminercontent.com/releases/bminer-v16.4.7-cccd70d-amd64.tar.xz"
+
+# Z-ENEMY [nv] | https://github.com/zealot-rvn/z-enemy/releases
+zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
+
+# NBMINER | https://github.com/NebuTech/NBMiner/releases
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.2/NBMiner_39.2_Linux.tgz"
+
+# T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
+trex="https://github.com/trexminer/T-Rex/releases/download/0.21.6/t-rex-0.21.6-linux.tar.gz"
+
+
+# Miner var array, git repos array
 supported_miners=("lolminer" "teamredminer" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
 supported_git=("nanopool/nanominer" "todxx/teamredminer" "Lolliedieb/lolMiner-releases" "zealot-rvn/z-enemy" "NebuTech/NBMiner" "develsoftware/GMinerRelease" "trexminer/T-Rex" "m1losh/mubuntu-update")
-
-
-# ======================================================================== #
-#                             SOFTWARE UPDATE                              #
-# ======================================================================== #
-
-# REMOTE
-remote_update=1
-remote_url_tmate="https://github.com/tmate-io/tmate/releases/download/2.4.0/tmate-2.4.0-static-linux-amd64.tar.xz"
-remote_url_teamviewer_tar="https://download.teamviewer.com/download/linux/teamviewer_amd64.tar.xz"
-remote_url_teamviewer_deb="https://download.teamviewer.com/download/linux/teamviewer_amd64.deb"
-
-# AUTOUPDATE
-update="1"
-update_pre_sh="touch pre.temp"
-update_post_sh="touch post.temp"
-update_os_min="20.04"
-update_version="1.0"
-update_url_archive="https://github.com/m1losh/mubuntu-update/raw/master/update/mubuntu.xz"
 
