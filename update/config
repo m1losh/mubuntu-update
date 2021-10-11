@@ -33,7 +33,7 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.7-cccd70d-amd64.tar.
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.5/NBMiner_39.5_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.24.0/t-rex-0.24.0-linux.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.24.2/t-rex-0.24.2-linux.tar.gz"
 
 # Z-ENEMY [nv] | https://github.com/zealot-rvn/z-enemy/releases
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
