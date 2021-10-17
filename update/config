@@ -18,7 +18,7 @@ lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.33
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6/teamredminer-v0.8.6-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6.2/teamredminer-v0.8.6.2-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.7b_Linux.tar.gz"
