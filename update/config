@@ -6,7 +6,7 @@
 # ██╔████╔██║██║██╔██╗ ██║█████╗  ██████╔╝███████╗    ██║   ██║██████╔╝██║  ██║███████║   ██║   █████╗  
 # ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██╔══██╗╚════██║    ██║   ██║██╔═══╝ ██║  ██║██╔══██║   ██║   ██╔══╝  
 # ██║ ╚═╝ ██║██║██║ ╚████║███████╗██║  ██║███████║    ╚██████╔╝██║     ██████╔╝██║  ██║   ██║   ███████╗  Updated
-# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-03
+# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-06
 
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
@@ -18,7 +18,7 @@ lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.34
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6.2/teamredminer-v0.8.6.2-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6.3/teamredminer-v0.8.6.3-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.8c_Linux.tar.gz"
