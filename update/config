@@ -24,7 +24,7 @@ teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6.3/t
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.8c_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.70/gminer_2_70_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.71/gminer_2_71_linux64.tar.xz"
 
 # BMINER | https://www.bminer.me/releases/
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.8-b37ccb0-amd64.tar.xz"
