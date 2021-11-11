@@ -6,11 +6,11 @@
 # ██╔████╔██║██║██╔██╗ ██║█████╗  ██████╔╝███████╗    ██║   ██║██████╔╝██║  ██║███████║   ██║   █████╗  
 # ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██╔══██╗╚════██║    ██║   ██║██╔═══╝ ██║  ██║██╔══██║   ██║   ██╔══╝  
 # ██║ ╚═╝ ██║██║██║ ╚████║███████╗██║  ██║███████║    ╚██████╔╝██║     ██████╔╝██║  ██║   ██║   ███████╗  Updated
-# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-06
+# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-11
 
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.4.2/nanominer-linux-3.4.2.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.4.3/nanominer-linux-3.4.3.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
