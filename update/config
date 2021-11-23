@@ -6,11 +6,11 @@
 # ██╔████╔██║██║██╔██╗ ██║█████╗  ██████╔╝███████╗    ██║   ██║██████╔╝██║  ██║███████║   ██║   █████╗  
 # ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██╔══██╗╚════██║    ██║   ██║██╔═══╝ ██║  ██║██╔══██║   ██║   ██╔══╝  
 # ██║ ╚═╝ ██║██║██║ ╚████║███████╗██║  ██║███████║    ╚██████╔╝██║     ██████╔╝██║  ██║   ██║   ███████╗  Updated
-# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-11
+# ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  2021-11-23
 
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.4.3/nanominer-linux-3.4.3.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.4.4/nanominer-linux-3.4.4.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
@@ -30,7 +30,7 @@ gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.72/gm
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.8-b37ccb0-amd64.tar.xz"
 
 # NBMINER | https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v39.7/NBMiner_39.7_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v40.0/NBMiner_40.0_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.24.7/t-rex-0.24.7-linux.tar.gz"
