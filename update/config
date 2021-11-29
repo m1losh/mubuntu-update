@@ -21,7 +21,7 @@ lolminer_setup="ln -f reboot.sh emergency.sh"
 teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.8.6.3/teamredminer-v0.8.6.3-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.8c_Linux.tar.gz"
+phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.9d_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
 gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.73/gminer_2_73_linux64.tar.xz"
