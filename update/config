@@ -14,17 +14,17 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.5.2/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.44/lolMiner_v1.44_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.46a/lolMiner_v1.46a_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.2.2/teamredminer-v0.9.2.2-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.3/teamredminer-v0.9.3-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.9d_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.79/gminer_2_79_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.80/gminer_2_80_linux64.tar.xz"
 
 # BMINER | https://www.bminer.me/releases/
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.9-c80288d-amd64.tar.xz"
@@ -33,7 +33,7 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.9-c80288d-amd64.tar.
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v40.1/NBMiner_40.1_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.25.2/t-rex-0.25.2-linux.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.25.8/t-rex-0.25.8-linux.tar.gz"
 
 # Z-ENEMY [nv] | https://github.com/zealot-rvn/z-enemy/releases
 zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
