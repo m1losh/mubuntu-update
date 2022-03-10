@@ -18,16 +18,16 @@ lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.46
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.4/teamredminer-v0.9.4-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.4.2/teamredminer-v0.9.4.2-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
-phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_5.9d_Linux.tar.gz"
+phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.0c_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.84/gminer_2_84_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.85/gminer_2_85_linux64.tar.xz"
 
 # BMINER | https://www.bminer.me/releases/
-bminer="https://www.bminercontent.com/releases/bminer-v16.4.9-c80288d-amd64.tar.xz"
+bminer="https://www.bminercontent.com/releases/bminer-v16.4.10-1884bde-amd64.tar.xz"
 
 # NBMINER | https://github.com/NebuTech/NBMiner/releases
 nbminer="https://github.com/NebuTech/NBMiner/releases/download/v40.1/NBMiner_40.1_Linux.tgz"
