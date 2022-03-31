@@ -1,5 +1,5 @@
 #!/bin/sh
-last_update="2022-03-27"
+last_update="2022-03-31"
 
 # ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
 # ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
@@ -9,7 +9,7 @@ last_update="2022-03-27"
 # ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.5.2/nanominer-linux-3.5.2.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.0/nanominer-linux-3.6.0.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
@@ -23,7 +23,7 @@ teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.4.2/t
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.0c_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.90/gminer_2_90_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.91/gminer_2_91_linux64.tar.xz"
 
 # BMINER | https://www.bminer.me/releases/
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.10-1884bde-amd64.tar.xz"
