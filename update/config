@@ -15,7 +15,7 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.2/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.49/lolMiner_v1.49_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.50/lolMiner_v1.50_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
@@ -25,13 +25,13 @@ teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.4.2/t
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.2c_Linux.tar.gz"
 
 # GMINER | https://github.com/develsoftware/GMinerRelease/releases/
-gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.91/gminer_2_91_linux64.tar.xz"
+gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.94/gminer_2_94_linux64.tar.xz"
 
 # BMINER | https://www.bminer.me/releases/
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.11-2849b5c-amd64.tar.xz"
 
 # NBMINER | https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v41.3/NBMiner_41.3_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v41.5/NBMiner_41.5_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.26.1/t-rex-0.26.1-linux.tar.gz"
