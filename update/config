@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DATE [LAST UPDATED] | YYYY-MM-DD
-last_update="2022-05-17"
+last_update="2022-05-19"
 
 # ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
 # ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
@@ -15,11 +15,12 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.2/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.50/lolMiner_v1.50_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.51/lolMiner_v1.51_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.9.4.2/teamredminer-v0.9.4.2-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.0/teamredminer-v0.10.0-linux.tgz"
+teamredminermulti="https://github.com/todxx/teamredminer/releases/download/v0.10.0/trm_custom-0.10.0.tgz" # allows for multiple instances
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.2c_Linux.tar.gz"
@@ -41,6 +42,6 @@ zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enem
 
 
 # Miner var array, git repos array
-supported_miners=("lolminer" "teamredminer" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
+supported_miners=("lolminer" "teamredminer" "teamredminermulti" "nanominer" "bminer" "gminer" "nbminer" "phoenixminer" "t-rex" "z-enemy" "all" "git")
 supported_git=("nanopool/nanominer" "todxx/teamredminer" "Lolliedieb/lolMiner-releases" "zealot-rvn/z-enemy" "NebuTech/NBMiner" "develsoftware/GMinerRelease" "trexminer/T-Rex" "m1losh/mubuntu-update")
 
