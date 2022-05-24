@@ -32,7 +32,7 @@ gminer="https://github.com/develsoftware/GMinerRelease/releases/download/2.96/gm
 bminer="https://www.bminercontent.com/releases/bminer-v16.4.11-2849b5c-amd64.tar.xz"
 
 # NBMINER | https://github.com/NebuTech/NBMiner/releases
-nbminer="https://github.com/NebuTech/NBMiner/releases/download/v42.0/NBMiner_42.0_Linux.tgz"
+nbminer="https://github.com/NebuTech/NBMiner/releases/download/v42.1/NBMiner_42.1_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.26.4/t-rex-0.26.4-linux.tar.gz"
