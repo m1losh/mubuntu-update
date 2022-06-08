@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DATE [LAST UPDATED] | YYYY-MM-DD
-last_update="2022-05-26"
+last_update="2022-06-08"
 
 # ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
 # ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
@@ -11,7 +11,7 @@ last_update="2022-05-26"
 # ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.3/nanominer-linux-3.6.3.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.4/nanominer-linux-3.6.4.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
