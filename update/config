@@ -11,7 +11,7 @@ last_update="2022-06-08"
 # ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.4/nanominer-linux-3.6.4.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.5/nanominer-linux-3.6.5.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
@@ -19,7 +19,7 @@ lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.51
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.0/teamredminer-v0.10.0-linux.tgz"
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.1/teamredminer-v0.10.1-linux.tgz"
 teamredminer_multi="https://github.com/todxx/teamredminer/releases/download/v0.10.0/trm_custom-0.10.0.tgz" # allows for multiple instances
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
