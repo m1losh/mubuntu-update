@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DATE [LAST UPDATED] | YYYY-MM-DD
-last_update="2022-06-08"
+last_update="2022-07-04"
 
 # ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
 # ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
@@ -11,16 +11,16 @@ last_update="2022-06-08"
 # ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.5/nanominer-linux-3.6.5.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.7/nanominer-linux-3.6.7.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.52/lolMiner_v1.52_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.52a/lolMiner_v1.52a_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
 teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.2/teamredminer-v0.10.2-linux.tgz"
-teamredminer_multi="https://github.com/todxx/teamredminer/releases/download/v0.10.0/trm_custom-0.10.0.tgz" # allows for multiple instances
+teamredminer_multi="https://github.com/todxx/teamredminer/releases/download/v0.10.2/trm_custom-0.10.2.tgz" # allows for multiple instances
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.2c_Linux.tar.gz"
