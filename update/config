@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # DATE [LAST UPDATED] | YYYY-MM-DD
-last_update="2022-08-15"
+last_update="2022-08-30"
 
 # ███╗   ███╗██╗███╗   ██╗███████╗██████╗ ███████╗    ██╗   ██╗██████╗ ██████╗  █████╗ ████████╗███████╗
 # ████╗ ████║██║████╗  ██║██╔════╝██╔══██╗██╔════╝    ██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
@@ -11,7 +11,7 @@ last_update="2022-08-15"
 # ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
 # NANOMINER | https://github.com/nanopool/nanominer/releases
-nanominer="https://github.com/nanopool/nanominer/releases/download/v3.6.8/nanominer-linux-3.6.8.tar.gz"
+nanominer="https://github.com/nanopool/nanominer/releases/download/v3.7.0/nanominer-linux-3.7.0.tar.gz"
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
@@ -36,7 +36,7 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.11-2849b5c-amd64.tar
 nbminer="https://dl.nbminer.com/NBMiner_42.2_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.26.4/t-rex-0.26.4-linux.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.26.5/t-rex-0.26.5-linux.tar.gz"
 trex_multi="https://github.com/trexminer/T-Rex/releases/download/0.26.4/t-rex-0.26.4-hiveos-custom.tar.gz" # allows for multiple instances
 
 # Z-ENEMY [nv] | https://github.com/zealot-rvn/z-enemy/releases
