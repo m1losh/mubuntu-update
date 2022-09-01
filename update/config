@@ -15,7 +15,7 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.7.0/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.54/lolMiner_v1.54_Lin64.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.55/lolMiner_v1.55_Lin64.tar.gz"
 lolminer_multi="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.54/lolminer-1.54.CustomHiveOS.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
