@@ -15,13 +15,11 @@ nanominer="https://github.com/nanopool/nanominer/releases/download/v3.7.1/nanomi
 nanominer_setup="mv ./helper_scripts/cmdline_launcher.sh ."
 
 # LOLMINER | https://github.com/Lolliedieb/lolMiner-releases/releases
-lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.55/lolMiner_v1.55_Lin64.tar.gz"
-lolminer_multi="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.54/lolminer-1.54.CustomHiveOS.tar.gz"
+lolminer="https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.57/lolMiner_v1.57_Lin64.tar.gz"
 lolminer_setup="ln -f reboot.sh emergency.sh"
 
 # TEAMREDMINER [amd] | https://github.com/todxx/teamredminer/releases
-teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.2/teamredminer-v0.10.2-linux.tgz"
-teamredminer_multi="https://github.com/todxx/teamredminer/releases/download/v0.10.2/trm_custom-0.10.2.tgz" # allows for multiple instances
+teamredminer="https://github.com/todxx/teamredminer/releases/download/v0.10.3/teamredminer-v0.10.3-linux.tgz"
 
 # PHOENIXMINER | https://phoenixminer.info/downloads // https://bitcointalk.org/index.php?topic=2647654.0
 phoenixminer="https://phoenixminer.info/downloads/PhoenixMiner_6.2c_Linux.tar.gz"
@@ -37,10 +35,6 @@ nbminer="https://dl.nbminer.com/NBMiner_42.3_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
 trex="https://github.com/trexminer/T-Rex/releases/download/0.26.5/t-rex-0.26.5-linux.tar.gz"
-trex_multi="https://github.com/trexminer/T-Rex/releases/download/0.26.4/t-rex-0.26.4-hiveos-custom.tar.gz" # allows for multiple instances
-
-# Z-ENEMY [nv] | https://github.com/zealot-rvn/z-enemy/releases
-zenemy="https://github.com/zealot-rvn/z-enemy/releases/download/kawpow262/z-enemy-2.6.2-cuda101-libcurl4.tar.gz"
 
 
 # Miner var array, git repos array
