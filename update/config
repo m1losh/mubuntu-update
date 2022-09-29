@@ -34,7 +34,7 @@ bminer="https://www.bminercontent.com/releases/bminer-v16.4.11-2849b5c-amd64.tar
 nbminer="https://dl.nbminer.com/NBMiner_42.3_Linux.tgz"
 
 # T-REX [nv] | https://trex-miner.com // https://github.com/trexminer/T-Rex/releases
-trex="https://github.com/trexminer/T-Rex/releases/download/0.26.5/t-rex-0.26.5-linux.tar.gz"
+trex="https://github.com/trexminer/T-Rex/releases/download/0.26.6/t-rex-0.26.6-linux.tar.gz"
 
 
 # Miner var array, git repos array
